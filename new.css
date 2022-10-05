@@ -1,0 +1,13 @@
+.btns{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 2rem;
+}
+.active{
+    background-color: blue;
+}
+
+body{
+    background-color: rgb(2, 2, 37);
+}
